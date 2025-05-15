@@ -11,6 +11,10 @@ print("cloudwatch")
 print("elasticblockstorage")
 print("public subnet")
 print("private subnet")
+<<<<<<< HEAD
 print("key-pair")
 
+=======
+print("subnet")
+>>>>>>> do
 
