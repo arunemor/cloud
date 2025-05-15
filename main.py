@@ -9,5 +9,7 @@ print("ec2")
 print("elasticbeanstack")
 print("cloudwatch")
 print("elasticblockstorage")
-
+print("public subnet")
+print("private subnet")
+print("subnet")
 
