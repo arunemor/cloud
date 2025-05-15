@@ -8,6 +8,6 @@ print("vpc")
 print("ec2")
 print("elasticbeanstack")
 print("cloudwatch")
-
+print("elasticblockstorage")
 
 
